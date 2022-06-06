@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="linearList"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nodeList">
+				<Option output="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/nodeList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 nodeList"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nodeList/fast">
+				<Option output="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/nodeList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 nodeList/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="seqList">
+				<Option output="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/seqList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 seqList"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="seqList/fast">
+				<Option output="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/seqList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 seqList/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangruixiao/CLionProjects/DataStruct/linearList/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wangruixiao/CLionProjects/DataStruct/linearList/nodeList.cpp">
+			<Option target="nodeList"/>
+		</Unit>
+		<Unit filename="/Users/wangruixiao/CLionProjects/DataStruct/linearList/nodeList.h">
+			<Option target="nodeList"/>
+		</Unit>
+		<Unit filename="/Users/wangruixiao/CLionProjects/DataStruct/linearList/seq.cpp">
+			<Option target="seqList"/>
+		</Unit>
+		<Unit filename="/Users/wangruixiao/CLionProjects/DataStruct/linearList/seqList.cpp">
+			<Option target="seqList"/>
+		</Unit>
+		<Unit filename="/Users/wangruixiao/CLionProjects/DataStruct/linearList/seqList.h">
+			<Option target="seqList"/>
+		</Unit>
+		<Unit filename="/Users/wangruixiao/CLionProjects/DataStruct/linearList/utlib.h">
+			<Option target="seqList"/>
+		</Unit>
+		<Unit filename="/Users/wangruixiao/CLionProjects/DataStruct/linearList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

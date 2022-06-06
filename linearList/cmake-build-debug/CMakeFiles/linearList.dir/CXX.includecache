@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangruixiao/CLionProjects/DataStruct/linearList/seq.cpp
+seqList.h
+/Users/wangruixiao/CLionProjects/DataStruct/linearList/seqList.h
+seqList.cpp
+/Users/wangruixiao/CLionProjects/DataStruct/linearList/seqList.cpp
+
+/Users/wangruixiao/CLionProjects/DataStruct/linearList/seqList.cpp
+seqList.h
+/Users/wangruixiao/CLionProjects/DataStruct/linearList/seqList.h
+
+/Users/wangruixiao/CLionProjects/DataStruct/linearList/seqList.h
+utlib.h
+/Users/wangruixiao/CLionProjects/DataStruct/linearList/utlib.h
+
+/Users/wangruixiao/CLionProjects/DataStruct/linearList/utlib.h
+iostream
+-
+
