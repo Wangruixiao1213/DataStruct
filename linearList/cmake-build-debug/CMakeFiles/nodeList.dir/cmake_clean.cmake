@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/nodeList.dir/nodeList.cpp.o"
+  "CMakeFiles/nodeList.dir/nodeList.cpp.obj"
+  "libnodeList.dll.a"
+  "nodeList.exe"
+  "nodeList.exe.manifest"
   "nodeList.pdb"
-  "nodeList"
 )
 
 # Per-language clean rules from dependency scanning.
