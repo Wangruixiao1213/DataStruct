@@ -25,6 +25,6 @@ public:
     void PrintList();
     bool Empty();
 //    void DestroyList();
-//    ~nodeList();
+    ~nodeList();
 };
 #endif //LINEARLIST_NODELIST_H

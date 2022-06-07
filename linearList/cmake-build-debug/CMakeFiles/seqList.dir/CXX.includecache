@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-D:/DataStruct/DataStruct/linearList/seq.cpp
-seqList.h
-D:/DataStruct/DataStruct/linearList/seqList.h
-seqList.cpp
-D:/DataStruct/DataStruct/linearList/seqList.cpp
-
 D:/DataStruct/DataStruct/linearList/seqList.cpp
 seqList.h
 D:/DataStruct/DataStruct/linearList/seqList.h
@@ -19,6 +13,12 @@ D:/DataStruct/DataStruct/linearList/seqList.h
 D:/DataStruct/DataStruct/linearList/seqList.h
 utlib.h
 D:/DataStruct/DataStruct/linearList/utlib.h
+
+D:/DataStruct/DataStruct/linearList/seqTest.cpp
+seqList.h
+D:/DataStruct/DataStruct/linearList/seqList.h
+seqList.cpp
+D:/DataStruct/DataStruct/linearList/seqList.cpp
 
 D:/DataStruct/DataStruct/linearList/utlib.h
 iostream
