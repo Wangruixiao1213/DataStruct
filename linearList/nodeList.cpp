@@ -10,14 +10,14 @@ nodeList<ElemType>::nodeList(){
     start->next = nullptr;
 }
 
+//todo 可以不用count自己遍历一次
 template <typename ElemType>
 int nodeList<ElemType>::Length(){
     return count;
 //    int length = 0;
 //    auto* tmp = new Node<ElemType>;
-//    tmp->next = start->next;
-//    tmp->data = start->data;
-//    for(;tmp->next!= nullptr;tmp=tmp->next){
+//    tmp = start->next;
+//    for(;tmp != nullptr;tmp=tmp->next){
 //        length++;
 //    }
 //    delete tmp;
