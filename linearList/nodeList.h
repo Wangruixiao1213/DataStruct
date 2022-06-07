@@ -11,7 +11,7 @@ template <typename ElemType>
 class nodeList{
 private:
     int count;
-    Node<ElemType> start;
+    Node<ElemType> *start;
 
 //    ElemType *data;
 public:
