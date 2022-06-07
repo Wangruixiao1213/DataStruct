@@ -162,32 +162,32 @@ nodeList.cpp.s:
 	$(MAKE) -f CMakeFiles\nodeList.dir\build.make CMakeFiles/nodeList.dir/nodeList.cpp.s
 .PHONY : nodeList.cpp.s
 
-seq.obj: seq.cpp.obj
+nodeTest.obj: nodeTest.cpp.obj
 
-.PHONY : seq.obj
+.PHONY : nodeTest.obj
 
 # target to build an object file
-seq.cpp.obj:
-	$(MAKE) -f CMakeFiles\seqList.dir\build.make CMakeFiles/seqList.dir/seq.cpp.obj
-.PHONY : seq.cpp.obj
+nodeTest.cpp.obj:
+	$(MAKE) -f CMakeFiles\nodeList.dir\build.make CMakeFiles/nodeList.dir/nodeTest.cpp.obj
+.PHONY : nodeTest.cpp.obj
 
-seq.i: seq.cpp.i
+nodeTest.i: nodeTest.cpp.i
 
-.PHONY : seq.i
+.PHONY : nodeTest.i
 
 # target to preprocess a source file
-seq.cpp.i:
-	$(MAKE) -f CMakeFiles\seqList.dir\build.make CMakeFiles/seqList.dir/seq.cpp.i
-.PHONY : seq.cpp.i
+nodeTest.cpp.i:
+	$(MAKE) -f CMakeFiles\nodeList.dir\build.make CMakeFiles/nodeList.dir/nodeTest.cpp.i
+.PHONY : nodeTest.cpp.i
 
-seq.s: seq.cpp.s
+nodeTest.s: nodeTest.cpp.s
 
-.PHONY : seq.s
+.PHONY : nodeTest.s
 
 # target to generate assembly for a file
-seq.cpp.s:
-	$(MAKE) -f CMakeFiles\seqList.dir\build.make CMakeFiles/seqList.dir/seq.cpp.s
-.PHONY : seq.cpp.s
+nodeTest.cpp.s:
+	$(MAKE) -f CMakeFiles\nodeList.dir\build.make CMakeFiles/nodeList.dir/nodeTest.cpp.s
+.PHONY : nodeTest.cpp.s
 
 seqList.obj: seqList.cpp.obj
 
@@ -216,6 +216,33 @@ seqList.cpp.s:
 	$(MAKE) -f CMakeFiles\seqList.dir\build.make CMakeFiles/seqList.dir/seqList.cpp.s
 .PHONY : seqList.cpp.s
 
+seqTest.obj: seqTest.cpp.obj
+
+.PHONY : seqTest.obj
+
+# target to build an object file
+seqTest.cpp.obj:
+	$(MAKE) -f CMakeFiles\seqList.dir\build.make CMakeFiles/seqList.dir/seqTest.cpp.obj
+.PHONY : seqTest.cpp.obj
+
+seqTest.i: seqTest.cpp.i
+
+.PHONY : seqTest.i
+
+# target to preprocess a source file
+seqTest.cpp.i:
+	$(MAKE) -f CMakeFiles\seqList.dir\build.make CMakeFiles/seqList.dir/seqTest.cpp.i
+.PHONY : seqTest.cpp.i
+
+seqTest.s: seqTest.cpp.s
+
+.PHONY : seqTest.s
+
+# target to generate assembly for a file
+seqTest.cpp.s:
+	$(MAKE) -f CMakeFiles\seqList.dir\build.make CMakeFiles/seqList.dir/seqTest.cpp.s
+.PHONY : seqTest.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -229,12 +256,15 @@ help:
 	@echo ... nodeList.obj
 	@echo ... nodeList.i
 	@echo ... nodeList.s
-	@echo ... seq.obj
-	@echo ... seq.i
-	@echo ... seq.s
+	@echo ... nodeTest.obj
+	@echo ... nodeTest.i
+	@echo ... nodeTest.s
 	@echo ... seqList.obj
 	@echo ... seqList.i
 	@echo ... seqList.s
+	@echo ... seqTest.obj
+	@echo ... seqTest.i
+	@echo ... seqTest.s
 .PHONY : help
 
 

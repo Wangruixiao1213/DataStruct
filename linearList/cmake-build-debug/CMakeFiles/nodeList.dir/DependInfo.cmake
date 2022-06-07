@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/DataStruct/DataStruct/linearList/nodeList.cpp" "D:/DataStruct/DataStruct/linearList/cmake-build-debug/CMakeFiles/nodeList.dir/nodeList.cpp.obj"
+  "D:/DataStruct/DataStruct/linearList/nodeTest.cpp" "D:/DataStruct/DataStruct/linearList/cmake-build-debug/CMakeFiles/nodeList.dir/nodeTest.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -122,19 +122,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/DataStruct/DataStruct/linearList/node.h">
+			<Option target="nodeList"/>
+		</Unit>
 		<Unit filename="D:/DataStruct/DataStruct/linearList/nodeList.cpp">
 			<Option target="nodeList"/>
 		</Unit>
 		<Unit filename="D:/DataStruct/DataStruct/linearList/nodeList.h">
 			<Option target="nodeList"/>
 		</Unit>
-		<Unit filename="D:/DataStruct/DataStruct/linearList/seq.cpp">
-			<Option target="seqList"/>
+		<Unit filename="D:/DataStruct/DataStruct/linearList/nodeTest.cpp">
+			<Option target="nodeList"/>
 		</Unit>
 		<Unit filename="D:/DataStruct/DataStruct/linearList/seqList.cpp">
 			<Option target="seqList"/>
 		</Unit>
 		<Unit filename="D:/DataStruct/DataStruct/linearList/seqList.h">
+			<Option target="seqList"/>
+		</Unit>
+		<Unit filename="D:/DataStruct/DataStruct/linearList/seqTest.cpp">
 			<Option target="seqList"/>
 		</Unit>
 		<Unit filename="D:/DataStruct/DataStruct/linearList/utlib.h">

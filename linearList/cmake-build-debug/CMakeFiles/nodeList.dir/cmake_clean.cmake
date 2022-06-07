@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/nodeList.dir/nodeList.cpp.obj"
+  "CMakeFiles/nodeList.dir/nodeTest.cpp.obj"
   "libnodeList.dll.a"
   "nodeList.exe"
   "nodeList.exe.manifest"

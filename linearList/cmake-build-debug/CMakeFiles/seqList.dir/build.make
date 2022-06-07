@@ -56,18 +56,18 @@ include CMakeFiles/seqList.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/seqList.dir/flags.make
 
-CMakeFiles/seqList.dir/seq.cpp.obj: CMakeFiles/seqList.dir/flags.make
-CMakeFiles/seqList.dir/seq.cpp.obj: ../seq.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\DataStruct\DataStruct\linearList\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/seqList.dir/seq.cpp.obj"
-	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\seqList.dir\seq.cpp.obj -c D:\DataStruct\DataStruct\linearList\seq.cpp
+CMakeFiles/seqList.dir/seqTest.cpp.obj: CMakeFiles/seqList.dir/flags.make
+CMakeFiles/seqList.dir/seqTest.cpp.obj: ../seqTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\DataStruct\DataStruct\linearList\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/seqList.dir/seqTest.cpp.obj"
+	D:\mingw64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\seqList.dir\seqTest.cpp.obj -c D:\DataStruct\DataStruct\linearList\seqTest.cpp
 
-CMakeFiles/seqList.dir/seq.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/seqList.dir/seq.cpp.i"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\DataStruct\DataStruct\linearList\seq.cpp > CMakeFiles\seqList.dir\seq.cpp.i
+CMakeFiles/seqList.dir/seqTest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/seqList.dir/seqTest.cpp.i"
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\DataStruct\DataStruct\linearList\seqTest.cpp > CMakeFiles\seqList.dir\seqTest.cpp.i
 
-CMakeFiles/seqList.dir/seq.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/seqList.dir/seq.cpp.s"
-	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\DataStruct\DataStruct\linearList\seq.cpp -o CMakeFiles\seqList.dir\seq.cpp.s
+CMakeFiles/seqList.dir/seqTest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/seqList.dir/seqTest.cpp.s"
+	D:\mingw64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\DataStruct\DataStruct\linearList\seqTest.cpp -o CMakeFiles\seqList.dir\seqTest.cpp.s
 
 CMakeFiles/seqList.dir/seqList.cpp.obj: CMakeFiles/seqList.dir/flags.make
 CMakeFiles/seqList.dir/seqList.cpp.obj: ../seqList.cpp
@@ -84,13 +84,13 @@ CMakeFiles/seqList.dir/seqList.cpp.s: cmake_force
 
 # Object files for target seqList
 seqList_OBJECTS = \
-"CMakeFiles/seqList.dir/seq.cpp.obj" \
+"CMakeFiles/seqList.dir/seqTest.cpp.obj" \
 "CMakeFiles/seqList.dir/seqList.cpp.obj"
 
 # External object files for target seqList
 seqList_EXTERNAL_OBJECTS =
 
-seqList.exe: CMakeFiles/seqList.dir/seq.cpp.obj
+seqList.exe: CMakeFiles/seqList.dir/seqTest.cpp.obj
 seqList.exe: CMakeFiles/seqList.dir/seqList.cpp.obj
 seqList.exe: CMakeFiles/seqList.dir/build.make
 seqList.exe: CMakeFiles/seqList.dir/linklibs.rsp

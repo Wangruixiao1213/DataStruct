@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/seqList.dir/seq.cpp.obj"
   "CMakeFiles/seqList.dir/seqList.cpp.obj"
+  "CMakeFiles/seqList.dir/seqTest.cpp.obj"
   "libseqList.dll.a"
   "seqList.exe"
   "seqList.exe.manifest"
