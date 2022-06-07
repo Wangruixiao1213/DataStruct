@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/DataStruct/DataStruct/linearList/node.h
+
+D:/DataStruct/DataStruct/linearList/nodeList.cpp
+nodeList.h
+D:/DataStruct/DataStruct/linearList/nodeList.h
+
+D:/DataStruct/DataStruct/linearList/nodeList.h
+utlib.h
+D:/DataStruct/DataStruct/linearList/utlib.h
+node.h
+D:/DataStruct/DataStruct/linearList/node.h
+
+D:/DataStruct/DataStruct/linearList/nodeTest.cpp
+nodeList.h
+D:/DataStruct/DataStruct/linearList/nodeList.h
+nodeList.cpp
+D:/DataStruct/DataStruct/linearList/nodeList.cpp
+
+D:/DataStruct/DataStruct/linearList/utlib.h
+iostream
+-
+
