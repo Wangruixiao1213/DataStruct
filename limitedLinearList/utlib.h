@@ -1,0 +1,11 @@
+//
+// Created by 84757 on 2022/6/8.
+//
+
+#ifndef LIMITEDLINEARLIST_UTLIB_H
+#define LIMITEDLINEARLIST_UTLIB_H
+#ifndef LINEARLIST_UTLIB_H
+#define LINEARLIST_UTLIB_H
+
+#include<iostream>
+#endif //LIMITEDLINEARLIST_UTLIB_H
